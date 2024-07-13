@@ -1,0 +1,15 @@
+Technologies is used in this project 
+- React.JS
+- Material.UI
+- Vite
+
+npm run dev => to run my project 
+npm install => عشان انزل packages to modules 
+
+link this project =>  http://localhost:5173/
+
+بناء تصميم الموقع باستخدام material ui 
+=======================
+العداد فكرته من ال set time out 
+
+

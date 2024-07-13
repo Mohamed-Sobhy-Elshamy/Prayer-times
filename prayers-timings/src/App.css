@@ -1,0 +1,13 @@
+/*اتجاه الموقع من اليمين الى الشمال*/
+html {
+  direction: rtl;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: white !important;
+  color: white !important;
+}
+
+.MuiSvgIcon-root {
+  color: white !important;
+}
